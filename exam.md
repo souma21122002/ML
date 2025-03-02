@@ -1,4 +1,4 @@
-```markdown
+
 # Why Linear Models Rarely Overfit
 
 Linear models are generally less prone to overfitting compared to more complex models like decision trees or neural networks. Here are the key reasons why linear models rarely overfit:
